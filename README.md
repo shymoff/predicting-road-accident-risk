@@ -1,4 +1,4 @@
-# 🚗 Predykcja ryzyka wypadków drogowych (Kaggle Playground Series S5E10)
+# Predykcja ryzyka wypadków drogowych (Kaggle Playground Series S5E10)
 
 Projekt koncentruje się na **predykcji ryzyka wypadków drogowych** z wykorzystaniem modeli uczenia maszynowego typu ensemble, trenowanych na połączonych zbiorach danych rzeczywistych i syntetycznych.  
 Celem jest minimalizacja **Root Mean Squared Error (RMSE)** na publicznym leaderboardzie Kaggle.
